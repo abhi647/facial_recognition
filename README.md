@@ -1,3 +1,5 @@
+![alt text](http://datum.world/wp-content/uploads/2020/07/fav-icon.png)
+
 ## Facial Recognition using OpenCV and Haar Cascade
 
 Face detection using Haar cascades is a machine learning based approach where a cascade function is trained with a set of input data. 
